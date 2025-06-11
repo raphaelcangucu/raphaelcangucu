@@ -4,6 +4,8 @@
 
 Specialized in **E-learning platforms**, **crypto casinos**, and **ride sharing apps** while leading development teams to deliver cutting-edge backend solutions.
 
+**Proven track record**: Delivered complex systems handling millions of financial transactions and processing 10+ million queue items daily.
+
 ## 🚀 What I Do
 
 - **Technical Leadership**: Leading developer squads for US companies, focusing on scalable backend architecture
