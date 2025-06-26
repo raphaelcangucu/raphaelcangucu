@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer | Technical Lead | Building scalable backend products for US companies**
 
-Specialized in **E-learning platforms**, **crypto casinos**, and **ride sharing apps** while leading development teams to deliver cutting-edge backend solutions.
+Better knowledge in **E-learning platforms**, **crypto casinos**, and **ride sharing apps** while leading development teams to deliver cutting-edge backend solutions.
 
 **Proven track record**: Delivered complex systems handling millions of financial transactions and processing 10+ million queue items daily.
 
